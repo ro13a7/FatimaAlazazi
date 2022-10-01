@@ -1,8 +1,6 @@
 public class Q5 {
-    public static void main(String[] args) {
+  //9
+  //5
+  //black
 
-        System.out.println("------");
-        System.out.println("|ruba|");
-        System.out.println("------");
-    }
 }
